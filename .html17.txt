@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>
+mrcp.in
+</title>
+</head><br>
+<body bgcolor=pink><br>
+<p align=center>
+MALLA REDDY COLLEGE OF PHARMACY<br>
+Maisammaguda,Dhulapally,(post via Hakimpet),Secunderabad-500 014<br>
+Ph.no:08418-233792,65222557,Fax:08418 233791<br>
+<hr>
+<br><u>
+<center><br>
+IDENTITY CARD<strong><br>
+<br></u>
+<head><br>
+<body>
+NAME:<b>ARATHI</b><br>
+ROLL NO:256222881058<br>
+BRANCH:B.PHARMACY<br>
+D.O.B:07.09.2004<br>
+BATCH:2022-2026<br>
+</P>
+<P align=right>
+ISSUING AUTHORITY<br>
+</body><br>
+</head>
+</title>
+</html>

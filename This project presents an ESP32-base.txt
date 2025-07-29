@@ -1,0 +1,12 @@
+This project presents an ESP32-based smart home
+automation system integrated with both Alexa and
+Google Assistant voice assistants. The system allows
+users to control various home devices, such as lights,
+appliances, and sensors, remotely using voice
+commands.
+The purpose of the esp32 smart home automation is to 
+create a seamless and efficient way to control various
+home devices using voice commands soo.....
+we need a platform that can bind our ESP32 with
+Google Assistant and Alexa, and for that, we have
+used something called Sinric Pro.
